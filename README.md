@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harshitdixit188@gmail.com**
 
-- ⚡ Fun fact **A cloud weighs around a million tonnes**gi
+- ⚡ Fun fact **A cloud weighs around a million tonnes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
