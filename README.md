@@ -26,7 +26,8 @@
 
 - ✅ **Designing Data-Intensive Applications** by Martin Kleppmann  
 - ✅ **Introduction to Algorithms** by Cormen, Leiserson, Rivest & Stein  
-- 📖 Currently reading: **System Design Interview volume 1** by Alex Xu  
+- ✅ **System Design Interview volume 1** by Alex Xu
+- 📖 Currently reading: **AWS in Action**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitdixit14&show_icons=true&locale=en&layout=compact" alt="harshitdixit14" /></p>
