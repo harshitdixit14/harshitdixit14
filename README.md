@@ -33,5 +33,7 @@
 - ✅ **System Design Interview volume 1** by Alex Xu
 - 📖 Currently reading: **AWS in Action**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitdixit14&show_icons=true&locale=en&layout=compact" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitdixit14&show_icons=true&locale=en" /></p>
 
